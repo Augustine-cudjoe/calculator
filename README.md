@@ -1,7 +1,7 @@
 <h1>My calculator App</h1>
 <div>
  <img src="calculator.png " />
-<img src="calculator2.png " width="400px" height="400px"/>
+<img src="calculator2.png " />
 </div>
 
 # Calculator
