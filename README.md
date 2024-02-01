@@ -1,4 +1,9 @@
 <h1>My calculator App</h1>
+
+https://github.com/Augustine-cudjoe/calculator/assets/108471678/61dcef90-2fdb-4939-96ce-bfe2eab83f34
+
+
+
 <div>
  <img src="calculator.png " />
 <img src="calculator2.png " />
@@ -6,7 +11,7 @@
 
 # Calculator
 
-This is a simple Calculator built with reactJs, Bootstrap, and CSS. This Calculator can performance basic arithmetic operations.
+This is a simple Calculator built with reactJs, Bootstrap, and CSS. This Calculator can perform basic arithmetic operations.
 
 
 ## Acknowledgements
